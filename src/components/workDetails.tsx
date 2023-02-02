@@ -10,7 +10,7 @@ export default function WorkDetails() {
           <p>Software Engineer</p>
           <ul className="list-disc pl-5">
             <li>Developing UI Components by ReactJS</li>
-            <li>Developing API usin ExpressJS</li>
+            <li>Developing API using ExpressJS</li>
           </ul>
         </div>
 
