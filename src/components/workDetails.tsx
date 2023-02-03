@@ -1,7 +1,7 @@
 export default function WorkDetails() {
   return (
     <div className="flex-1 h-max p-0 md:px-4">
-      <h2 className="text-2xl font-medium">Work Experience</h2>
+      <h2 className="text-2xl font-medium">Work Experience11</h2>
       <div className="flex flex-col gap-y-2 mt-2 mb-4">
         <div className="">
           <h3 className="font-bold">
