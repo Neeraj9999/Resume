@@ -36,8 +36,8 @@ export default function WorkDetails() {
         <li>HTML, CSS, cpanel</li>
         <li>Familiar with Python, Node Js</li>
       </ul>
-      <h2 className="font-bold text-xl mt-4">Projects+</h2>
-      <ul className="list-disc pl-5">
+      <h2 className="font-bold text-xl mt-4 pb-1">Projects <i className="text-lime-500">3+</i></h2>
+      <ul className="list-decimal pl-5">
         <li>
           Worked on E-commerse application
           <span className="font-semibold pl-2">
@@ -51,8 +51,10 @@ export default function WorkDetails() {
           </span>
         </li>
         <li>
-          I have worked on full fledge web application with small team to large
-          team
+          Modern School Management Platform to provide school management service
+          <span className="font-semibold pl-2">
+            (Multiple Role based platform to interact with the system through responsive UI)
+          </span>
         </li>
       </ul>
     </div>
